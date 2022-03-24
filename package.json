@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["apollo-server",
+    "neo4j-graphql-library",
+    "neo4j",
+    "node",
+    "javascript"],
   "author": "",
   "license": "ISC",
   "dependencies": {
